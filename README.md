@@ -1,7 +1,7 @@
 ## Olá me chamo Jean Pierre e Sou Programador Backend 💻
 
 - 🔭 Atualmente trabalho com Backend
-- 🌱 Estudando NestJs
+- 🌱 Estudando ReactJs
 
 <div align="center">
   <a href="https://github.com/Jean-Pierre-97s">
